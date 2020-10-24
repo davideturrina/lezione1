@@ -1,0 +1,21 @@
+include<iostream>
+int main() {
+    std
+
+int INTERO;
+int SUM=0;
+int N=0;
+cout << "INSERIRE NUMERO INTERO  " << endl 
+cin>> INTERO;
+WHILE (INTERO !=0) {
+	IF (IN % 2==0) {
+		SUM += W;
+		N++
+        }
+		
+cout << "INSERISCI NUMERO INTERO " << endl 
+cin >> INTERO
+}
+COUT<< "MEDIA NUMERI PARI" SUM/N <<endl
+RETURN 2
+}
